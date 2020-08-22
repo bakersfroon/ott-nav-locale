@@ -265,7 +265,7 @@
     <string name="category_all_channels">Alle kanalen</string>
     <string name="cfg_no_categories">Gebruik lijst met gewone kanalen (zonder categorieën)</string>
     <string name="cfg_section_desc">Product beschrijving</string>
-    <string name="cfg_section_lists">Lijsten instellingen</string>
+    <string name="cfg_section_lists">Instellingen voor lijsten</string>
     <string name="cfg_no_hints">Toon geen hints</string>
     <string name="child_mode_unlock_cfg">Voer de kinderslotcode in om de instellingen te ontgrendelen</string>
     <string name="cfg_child_mode">Kinderslotmodus</string>
