@@ -278,7 +278,7 @@
     <string name="cfg_stream_tech">Stream-technologie (indien beschikbaar)</string>
     <string name="cfg_show_ch_numbers">Toon kanaalnummers</string>
     <string name="always">altijd</string>
-    <string name="menu_tv_guide">tv-gids</string>
+    <string name="menu_tv_guide">TV-gids</string>
     <string name="cfg_stream_q">Toon streamkwaliteit</string>
     <string name="ext_player_copy_clipboard">Kopieer de link alleen naar het klembord</string>
     <string name="premium_fea_mult_prov">Hiermee kunnen meerdere providers tegelijkertijd worden gebruikt</string>
@@ -329,7 +329,7 @@
     <string name="menu_suggest_premium">Klaar om aantrekkelijke premium-functies te verkennen?</string>
     <string name="cfg_epg_update_frequency">Update frequentie (in uren)</string>
     <string name="cfg_vod_merge">PiP schermen uit verschillende bronnen in één lijst samenvoegen (opnieuw laden vereist)</string>
-    <string name="ch_manage_rename">andere naam geven</string>
+    <string name="ch_manage_rename">Andere naam geven</string>
     <string name="pla_timeshift_from_current">Begin vanaf het huidige moment</string>
     <string name="cfg_play_action_timeshift_start">open gearchiveerde tv-show vanaf het begin</string>
     <string name="cfg_play_action_timeshift_now">open gearchiveerde tv-show vanaf het huidige moment</string>
