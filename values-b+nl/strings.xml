@@ -105,7 +105,7 @@
     <string name="no_teleguide">Geen EPG-telegids</string>
     <string name="vod_root_title_playlist">Aangepaste afspeellijst</string>
     <string name="play_switch_codec">Schakel codec</string>
-    <string name="play_switch_codec_details">Laad stroom via verschillende decoder</string>
+    <string name="play_switch_codec_details">Laad stream via verschillende decoder</string>
     <string name="play_switch_codec_hard">Gebruik hardwarecodecs</string>
     <string name="play_switch_codec_vlc">Gebruik software VLC</string>
     <string name="play_switch_codec_ext">Openen in externe speler</string>
