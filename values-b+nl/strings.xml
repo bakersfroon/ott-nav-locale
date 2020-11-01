@@ -89,7 +89,7 @@
     <string name="settings_provider_select_apply">Van toepassing zijn</string>
     <string name="settings_provider_select_return">terugkeer</string>
     <string name="settings_provider_select_status_error">Configuratiefout. Kan gegevens niet laden</string>
-    <string name="settings_provider_select_status_success">Instelling succesvol toegepast</string>
+    <string name="settings_provider_select_status_success">Instelling succesvol toegepast </string>
     <string name="settings_provider_select_action_playlist">Afspeellijst valideren</string>
     <string name="settings_provider_select_action_live">Live kanalen laden</string>
     <string name="settings_provider_select_error_playlist">Afspeellijst lijkt ongeldig of bevat geen ondersteunde kanalen</string>
@@ -155,11 +155,11 @@
     <string name="settings_premium_toggles_try_afr_toast">Huidige weergave ondersteunde vernieuwingsfrequenties</string>
     <string name="settings_premium_toggle_btn_title">Schakel premiumfuncties in</string>
     <string name="settings_premium_toggle_btn_sub_add">Abonneren</string>
-    <string name="settings_premium_toggle_btn_sub_add_desc">Schakel premium in door u te abonneren op kleine terugkerende betalingen</string>
+    <string name="settings_premium_toggle_btn_sub_add_desc">Schakel premium in door u te abonneren met een kleine terugkerende betalingen</string>
     <string name="settings_premium_toggle_btn_buy_add">Aankoop</string>
-    <string name="settings_premium_toggle_btn_buy_add_desc">Schakel premium in met een enkele betaling</string>
+    <string name="settings_premium_toggle_btn_buy_add_desc">Schakel premium in met een eenmalige betaling</string>
     <string name="settings_premium_toggle_btn_buy_no_ads">Koop geen advertentiepakket (ook inbegrepen in alle Premium-pakketten)</string>
-    <string name="settings_premium_toggle_btn_buy_no_ads_desc">Schakel advertenties voor altijd uit met een enkele betaling</string>
+    <string name="settings_premium_toggle_btn_buy_no_ads_desc">Schakel advertenties voor altijd uit met een eenmalige betaling</string>
     <string name="setting_list_view_title">Hoe lijsten moeten worden weergegeven</string>
     <string name="setting_list_view1">eenvoudige lijst</string>
     <string name="cfg_play_deny_buffer">Toon geen bufferstatus</string>
@@ -221,7 +221,7 @@
     <string name="btn_backup_data">Backup huidige configuratie</string>
     <string name="btn_backup_load">Laad een eerder gemaakte configuratieback-up</string>
     <string name="err_need_newer_android">Nieuwere Android-versie is vereist voor deze functie</string>
-    <string name="cfg_play_action_sys_pip">Ga naar de systeem BiB-modus</string>
+    <string name="cfg_play_action_sys_pip">Ga naar de systeem PIP-modus</string>
     <string name="cfg_video_cutout">De bovenste en onderste regels van de video verbergen (in pixels)</string>
     <string name="cfg_video_retry">Tijden om opnieuw te proberen de video te laden wanneer er een fout is opgetreden</string>
     <string name="cfg_play_action_2live">Schakel over naar live-uitzending van het huidige kanaal</string>
@@ -258,7 +258,7 @@
     <string name="cat_vr_continue">Blijf kijken</string>
     <string name="cat_vr_continue_prem">Recent bekeken video\'s, die nu beschikbaar zijn</string>
     <string name="premium_fea_continue">Toont alle recent bekeken video\'s die momenteel beschikbaar zijn in het filter Doorgaan</string>
-    <string name="menu_swap_pip_sound">Wissel geluid tussen hoofdscherm en BiB</string>
+    <string name="menu_swap_pip_sound">Wissel geluid tussen hoofdscherm en PIP</string>
     <string name="premium_fea_pre_vid_wp">Toestaan dat een videovoorbeeld wordt getoond tijdens het afspelen van een andere video</string>
     <string name="hint_click_icon">Als u op het pictogram van een kanaal of groep klikt, wordt een contextmenu geopend (indien beschikbaar).</string>
     <string name="hint_right_jump">Als u in de meeste alfabetisch gesorteerde lijsten op de rechterknop drukt, wordt een snelweergave geopend.</string>
@@ -333,8 +333,8 @@
     <string name="cfg_vod_merge">Mediabibliotheek uit verschillende bronnen in één lijst samenvoegen (opnieuw laden vereist)</string>
     <string name="ch_manage_rename">andere naam geven</string>
     <string name="pla_timeshift_from_current">Begin vanaf het huidige moment</string>
-    <string name="cfg_play_action_timeshift_start">open gearchiveerde tv-show vanaf het begin</string>
-    <string name="cfg_play_action_timeshift_now">open gearchiveerde tv-show van huidige tijd</string>
+    <string name="cfg_play_action_timeshift_start">open gearchiveerde tv-programma vanaf het begin</string>
+    <string name="cfg_play_action_timeshift_now">open gearchiveerde tv-programma van huidige tijd</string>
     <string name="cfg_cat_recent">Categorie recente kanalen</string>
     <string name="enable">in staat stellen</string>
     <string name="save_between_launch">opslaan tussen lanceringen</string>
@@ -386,7 +386,7 @@
     <string name="cfg_codec_system">systeem video weergave</string>
     <string name="provider_connections_reached">Uw provider staat niet zoveel verbindingen toe.</string>
     <string name="max_connections">Maximaal toegestane verbindingen</string>
-    <string name="pro_sub_expiring">Uw abonnement verloopt. Vernieuwen</string>
+    <string name="pro_sub_expiring">Uw abonnement verloopt. Vernieuwen?</string>
     <string name="mark_all_viewed">Markeer alles als bekeken</string>
     <string name="pos_rearrange">Herschikken in de lijst</string>
     <string name="pos_rearrange_clear">Wis aangepaste posities in de lijst</string>
@@ -437,7 +437,7 @@
     <string name="try_other_codecs">Probeer verschillende codecs of externe speler</string>
     <string name="media_tracks">Mediatracks</string>
     <string name="media_tracks_video">Video</string>
-    <string name="media_tracks_audio">audio</string>
+    <string name="media_tracks_audio">Audio</string>
     <string name="media_tracks_sub">Ondertitels</string>
     <string name="cfg_lists_auto_scroll_to_last_touch">Automatisch naar het laatste item bladeren (in aanraakmodus)</string>
     <string name="hint_right_archives">U kunt op de RECHTERknop drukken terwijl u door live kanalen bladert om de lijst met archieven te openen</string>
@@ -539,7 +539,7 @@
     <string name="user_account_for_premium">Gebruikersaccount voor het beheren van premiumfuncties</string>
     <string name="logout">Uitloggen</string>
     <string name="pro_sub_expired">Uw abonnement is verlopen</string>
-    <string name="days">dagen</string>
+    <string name="days">Dagen</string>
     <string name="price">Prijs</string>
     <string name="do_not_offer_any_more">Bied dit niet meer aan</string>
     <string name="cfg_offer_to_seek_to_last_pos">Bied aan om te zoeken naar de laatst bekeken positie</string>
